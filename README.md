@@ -21,7 +21,7 @@
 
 <br/>
 
-[🏗 Architecture](#-architecture) • [🚀 Features](#-features) • [⚙️ Setup](#%EF%B8%8F-installation) • [📊 Monitoring](#-monitoring) • [🆚 Comparison](#-mistral-vs-chatgpt) • [⚠️ Challenges](#%EF%B8%8F-challenges-faced)
+[🏗 Architecture](#-architecture) • [🏗 Screenshots](#-Screenshots) • [🚀 Features](#-features) • [⚙️ Setup](#%EF%B8%8F-installation) • [📊 Monitoring](#-monitoring) • [🆚 Comparison](#-mistral-vs-chatgpt) • [⚠️ Challenges](#%EF%B8%8F-challenges-faced)
 
 </div>
 
