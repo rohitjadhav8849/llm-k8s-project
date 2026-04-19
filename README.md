@@ -75,6 +75,34 @@ Grafana ──── visualizes everything on live dashboard
 Every component has one job. That's what makes it reliable.
 
 ---
+## 📷 Screenshots
+
+### 🏗 Architecture
+| System Flow |
+|:-----------:|
+| ![Architecture](Images/architecture.png) |
+
+### ☸️ Kubernetes
+| Pods Running |
+|:-----------:|
+| ![Pods](Images/Pods.png) |
+
+### 📊 Grafana Monitoring
+| Live Dashboard |
+|:--------------:|
+| ![Grafana](Images/chat-grafana.png) |
+
+### 💬 Chatbot UI
+| Chat Interface |
+|:--------------:|
+| ![Chatbot](Images/chatbot.png) |
+
+### 🤖 Mistral Running Locally
+| Mistral via Ollama |
+|:-----------------:|
+| ![Mistral](Images/Mistal-Local.png) |
+
+---
 
 ## 📁 Project Structure
 
