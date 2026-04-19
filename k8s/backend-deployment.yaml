@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: llm-backend
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: llm-backend
+  template:
+    metadata:
+      labels:
+        app: llm-backend
+    spec:
+      containers:
+      - name: llm-backend
+        image: llm-backend:latest
+        imagePullPolicy: IfNotPresent
+        ports:
+        - containerPort: 8000
+        env:
+          - name: OLLAMA_URL
+            value: "http://192.168.219.7:11434/api/generate"
